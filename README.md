@@ -4,19 +4,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=durseltuerkan&label=Profile%20views&color=0e75b6&style=flat" alt="durseltuerkan" /> </p>
 
 
-## 👋 Über mich  
-
-Hi, ich bin **Dursel Türkan**, eine leidenschaftliche Softwareentwicklerin mit Fokus auf Web- und App-Entwicklung. 🚀  
-Ich liebe es, innovative Lösungen zu entwickeln und mich mit neuen Technologien auseinanderzusetzen.  
-
-
-- ### 🔥 Was mich antreibt  
-- 💡 Interesse an **Full-Stack-Webentwicklung & Mobile Apps**  
-- 📚 Ständige Weiterbildung in **JavaScript, TypeScript, React & Node.js**  
-- 🤝 Offen für **Open-Source-Beiträge & spannende Projekte**  
+## 👋 About Me  
+Hi, I'm Dursel Türkan, a passionate software developer focused on web and app development. 🚀  
+I love creating innovative solutions and exploring new technologies.## 
 
 
-### 🛠️ Technologien und Tools  
+### 🔥 What Drives Me  
+💡 Passion for Full-Stack Web Development & Mobile Apps  
+📚 Continuous learning in JavaScript, TypeScript, React & Node.js  
+🤝 Open to contributing to open-source projects & exciting collaborations 
+
+
+### 🛠️ Technologies and Tools  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -33,7 +32,7 @@ Ich liebe es, innovative Lösungen zu entwickeln und mich mit neuen Technologien
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 
-### 📫 Kontakt  
+### 📫 Contact  
 📩 E-Mail: [durseltuerkan@example.com](mailto:durseltuerkan@gmail.com)  
 🌍 Portfolio: [https://durseltuerkan.github.io/my-portfolio-tailwind-project/](https://durseltuerkan.github.io/my-portfolio-tailwind-project/)
 
