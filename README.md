@@ -4,6 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=durseltuerkan&label=Profile%20views&color=0e75b6&style=flat" alt="durseltuerkan" /> </p>
 
 
+![Dursels GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=durseltuerkan&show_icons=true&theme=radical)
+
+
+
 ## 👋 About Me  
 Hi, I'm Dursel Türkan, a passionate software developer focused on web and app development. 🚀  
 I love creating innovative solutions and exploring new technologies.## 
