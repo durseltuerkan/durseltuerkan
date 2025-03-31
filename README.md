@@ -4,10 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=durseltuerkan&label=Profile%20views&color=0e75b6&style=flat" alt="durseltuerkan" /> </p>
 
 
-![Dursels GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=durseltuerkan&show_icons=true&theme=radical)
-
-
-
 ## 👋 About Me  
 Hi, I'm Dursel Türkan, a passionate software developer focused on web and app development. 🚀  
 I love creating innovative solutions and exploring new technologies.## 
@@ -39,6 +35,10 @@ I love creating innovative solutions and exploring new technologies.##
 ### 📫 Contact  
 📩 E-Mail: [durseltuerkan@example.com](mailto:durseltuerkan@gmail.com)  
 🌍 Portfolio: [https://durseltuerkan.github.io/my-portfolio-tailwind-project/](https://durseltuerkan.github.io/my-portfolio-tailwind-project/)
+
+
+![Dursels GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=durseltuerkan&show_icons=true&theme=radical)
+
 
 <!--
 **durseltuerkan/durseltuerkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
