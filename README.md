@@ -1,13 +1,16 @@
+<h3 align="center">A passionate frontend developer from Germany</h3>
+
+- 🌱 I’m currently learning **WebDev at DCI**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durseltuerkan&label=Profile%20views&color=0e75b6&style=flat" alt="durseltuerkan" /> </p>
+
+
 ## 👋 Über mich  
 
 Hi, ich bin **Dursel Türkan**, ein leidenschaftlicher Softwareentwickler mit Fokus auf Web- und App-Entwicklung. 🚀  
 Ich liebe es, innovative Lösungen zu entwickeln und mich mit neuen Technologien auseinanderzusetzen.  
 
-<h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durseltuerkan&label=Profile%20views&color=0e75b6&style=flat" alt="durseltuerkan" /> </p>
 
-- 🌱 I’m currently learning **WebDev at DCI**
 - 
 - ### 🔥 Was mich antreibt  
 - 💡 Interesse an **Full-Stack-Webentwicklung & Mobile Apps**  
