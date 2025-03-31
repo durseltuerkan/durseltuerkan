@@ -33,7 +33,7 @@ I love creating innovative solutions and exploring new technologies.##
 
 
 ### 📫 Contact  
-📩 E-Mail: [durseltuerkan@example.com](mailto:durseltuerkan@gmail.com)  
+📩 E-Mail: [durseltuerkan@gmail.com](mailto:durseltuerkan@gmail.com)  
 🌍 Portfolio: [https://durseltuerkan.github.io/my-portfolio-tailwind-project/](https://durseltuerkan.github.io/my-portfolio-tailwind-project/)
 
 
