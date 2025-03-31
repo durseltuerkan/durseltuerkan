@@ -41,7 +41,7 @@ I love creating innovative solutions and exploring new technologies.##
 ![Dursels GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=durseltuerkan&show_icons=true&theme=radical)
 
 
-### 📊 Most Used Languages in My Repositories  
+### 📊 My Languages   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durseltuerkan&layout=compact&theme=radical)  
 
 
