@@ -10,17 +10,10 @@ Hi, ich bin **Dursel Türkan**, eine leidenschaftliche Softwareentwicklerin mit 
 Ich liebe es, innovative Lösungen zu entwickeln und mich mit neuen Technologien auseinanderzusetzen.  
 
 
-
-
 - ### 🔥 Was mich antreibt  
 - 💡 Interesse an **Full-Stack-Webentwicklung & Mobile Apps**  
 - 📚 Ständige Weiterbildung in **JavaScript, TypeScript, React & Node.js**  
 - 🤝 Offen für **Open-Source-Beiträge & spannende Projekte**  
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 ### 🛠️ Technologien und Tools  
