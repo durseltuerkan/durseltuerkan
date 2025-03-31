@@ -37,6 +37,7 @@ I love creating innovative solutions and exploring new technologies.##
 🌍 Portfolio: [https://durseltuerkan.github.io/my-portfolio-tailwind-project/](https://durseltuerkan.github.io/my-portfolio-tailwind-project/)
 
 
+### 📊 GitHub Stats
 ![Dursels GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=durseltuerkan&show_icons=true&theme=radical)
 
 
