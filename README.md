@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="center">🌱 I’m currently learning **WebDev at DCI**</p>
+<p align="center">🌱 I’m currently learning **WebDev at DCI** </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=durseltuerkan&label=Profile%20views&color=0e75b6&style=flat" alt="durseltuerkan" /> </p>
 
 
